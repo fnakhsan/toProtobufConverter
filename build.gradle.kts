@@ -25,7 +25,7 @@ repositories {
 dependencies {
 //    implementation(libs.options)
     implementation("io.insert-koin:koin-core:3.5.3")
-    implementation("commons-io:commons-io:2.11.0")
+    implementation("commons-io:commons-io:2.16.1")
     implementation("com.google.guava:guava:33.0.0-jre")
 
     testImplementation("io.mockk:mockk:1.12.1")
